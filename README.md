@@ -74,9 +74,37 @@ Provides decision-making data:
 - **Focus on outcomes**: Emphasize business impact over feature usage
 - **Get executive quotes**: The one-sentence summary is powerful for presentations
 
+## Quantitative Metrics & Usage Data
+
+Complement your survey results with objective usage metrics:
+
+### GitHub Copilot Insights Dashboard
+
+Built-in analytics available to organization admins:
+
+- Acceptance rates and suggestion quality
+- Active user counts and adoption trends
+- Language and IDE usage patterns
+- Team-level engagement metrics
+
+Access: GitHub.com → Organization Settings → Copilot → Usage
+
+### Custom Power BI Dashboard
+
+For deeper analysis and custom reporting:
+
+- Use the [Copilot Metrics Viewer Power BI Template](https://github.com/github-copilot-resources/copilot-metrics-viewer-power-bi)
+- Visualize trends over time
+- Compare teams or repositories
+- Correlate usage with survey feedback
+- Create executive-ready presentations
+
+**Pro Tip**: Combine quantitative metrics (from dashboards) with qualitative feedback (from surveys) to build a complete picture of Copilot's impact.
+
 ## Customization
 
 Feel free to adapt [SampleSurvey.md](SampleSurvey.md) to your organization's needs:
+
 - Add industry-specific compliance questions
 - Include team-specific metrics
 - Adjust rating scales (1-5 vs 1-10)
