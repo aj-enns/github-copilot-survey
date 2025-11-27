@@ -41,7 +41,7 @@ Section 3: Adoption & Satisfaction
 - ☐ Very difficult
 
 6. Overall satisfaction with GitHub Copilot:
-(Rate on a scale of 1–10)
+(Rate on a scale of 1–10 with 1 being very dissatisfied and 10 being very satisfied)
 
     [ 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 ]
 7. How disappointed would you be if Copilot were removed?
