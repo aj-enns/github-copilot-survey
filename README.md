@@ -1,7 +1,9 @@
-# github-copilot-survey
+# Sample Survey Questions for GitHub Copilot Pilot Evaluation
 A short sample list of questions to ask at the end of a GitHub Copilot Pilot. 
 
 A great tool for conducting this survery is Microsoft Forms: https://forms.microsoft.com/
+
+Please see [SampleSurvey.md](SampleSurvey.md) for a detailed example survey.
 
 
 ## 1. Business Value & ROI
