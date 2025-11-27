@@ -1,50 +1,87 @@
-# Sample Survey Questions for GitHub Copilot Pilot Evaluation
-A short sample list of questions to ask at the end of a GitHub Copilot Pilot. 
+# GitHub Copilot Pilot Feedback Survey
 
-A great tool for conducting this survery is Microsoft Forms: https://forms.microsoft.com/
+This repository contains resources to help evaluate GitHub Copilot pilots and inform Go/No-Go decisions for broader adoption.
 
-Please see [SampleSurvey.md](SampleSurvey.md) for a detailed example survey.
+## Quick Start
 
+**Ready to launch your survey?** 
+- Use the ready-to-deploy survey in [SampleSurvey.md](SampleSurvey.md)
+- Recommended tool: [Microsoft Forms](https://forms.microsoft.com/)
 
-## 1. Business Value & ROI
+## What's Included
 
-- How has GitHub Copilot impacted your team’s productivity?
-(e.g., saved time, faster delivery, reduced backlog)
-- Have you observed measurable improvements in development velocity or cost savings?
-- Would you recommend continuing Copilot based on its impact on business outcomes?
+### [SampleSurvey.md](SampleSurvey.md)
+A complete, ready-to-use feedback survey covering:
+- **Business Impact** - Velocity, time savings, and project acceleration
+- **Risk & Compliance** - Security, IP, and governance concerns
+- **Adoption & Satisfaction** - Integration ease and user satisfaction (1-10 scale)
+- **Strategic Alignment** - Digital transformation goals
+- **Recommendations** - Go/No-Go decision input and executive summary
 
+### Survey Design Guidelines
 
-## 2. Developer Experience & Adoption
+The sample survey uses a balanced approach:
+- **Quantitative metrics** - Likert scales, time estimates, yes/no questions
+- **Qualitative insights** - Optional open-text fields for examples and context
+- **Executive-ready** - Final question captures one-sentence impact summary
 
-- How frequently did developers use Copilot during the pilot?
-- Did Copilot help reduce repetitive coding tasks or improve code quality?
-- How easy was it for developers to integrate Copilot into their workflow?
+## Survey Categories Explained
 
+### 1. Business Value & ROI
+Measures tangible outcomes:
+- Productivity gains and time savings
+- Development velocity improvements
+- Cost reduction opportunities
+- Project delivery acceleration
 
-## 3. Risk & Compliance
+### 2. Developer Experience & Adoption
+Evaluates user engagement:
+- Usage frequency and patterns
+- Impact on repetitive tasks
+- Code quality improvements
+- Workflow integration ease
 
-- Were there any concerns about security, compliance, or intellectual property during the pilot?
-- Did Copilot align with your organization’s governance and policy requirements?
+### 3. Risk & Compliance
+Identifies potential blockers:
+- Security concerns
+- IP and confidentiality issues
+- Governance alignment
+- Policy compliance
 
+### 4. Innovation & Strategic Alignment
+Assesses strategic fit:
+- New capability enablement
+- Innovation acceleration
+- Digital transformation alignment
 
-## 4. Innovation & Strategic Alignment
+### 5. Satisfaction & Recommendation
+Captures sentiment and advocacy:
+- Overall satisfaction (1-10 scale)
+- Internal recommendation likelihood
+- Feature requests and improvements
 
-- Did Copilot enable new capabilities or accelerate innovation?
-- How does Copilot adoption align with your organization’s digital transformation goals?
+### 6. Executive-Level Insights
+Provides decision-making data:
+- One-sentence impact summary
+- Primary Go/No-Go rationale
+- Compelling quotes for presentations
 
+## Tips for Success
 
-## 5. Satisfaction & Recommendation
+- **Mix question types**: Combine scales (quantitative) with open-ended fields (qualitative)
+- **Keep it brief**: Target 5-10 minutes completion time
+- **Make context optional**: Allow detailed feedback without requiring it
+- **Focus on outcomes**: Emphasize business impact over feature usage
+- **Get executive quotes**: The one-sentence summary is powerful for presentations
 
-- Overall satisfaction with Copilot (scale 1–10).
-- Would you recommend Copilot to other teams or departments?
-- What would make Copilot more valuable for your organization?
+## Customization
 
+Feel free to adapt [SampleSurvey.md](SampleSurvey.md) to your organization's needs:
+- Add industry-specific compliance questions
+- Include team-specific metrics
+- Adjust rating scales (1-5 vs 1-10)
+- Add conditional questions based on role
 
-## 6. Executive-Level Insights
+## License
 
-- If you had to summarize Copilot’s impact in one sentence for leadership, what would it be?
-- What is your biggest reason for recommending a “Go” or “No-Go” decision?
-
-
-## 7. Additional Feedback
-Tip: Use a mix of Likert scale (1–5 or 1–10) for quantitative data and open-ended questions for qualitative insights. This combination gives you strong metrics and compelling quotes for the executive presentation.
+This survey template is provided as-is for organizational use in evaluating GitHub Copilot pilots. You know your context best—customize as needed!
