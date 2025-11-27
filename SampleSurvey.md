@@ -1,6 +1,8 @@
 # GitHub Copilot Pilot Feedback Survey
 Thank you for participating in the 4-week GitHub Copilot pilot. Your input will help us evaluate its impact and inform the Go / No-Go decision for broader adoption.
 
+> **Note:** These questions are designed to be copied and pasted directly into Microsoft Forms. Simply copy each question and its options into a new form question.
+
 ## Section 1: Business Impact
 1. How has GitHub Copilot affected development velocity?
 
