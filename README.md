@@ -1,22 +1,52 @@
-# GitHub Copilot Pilot Feedback Survey
+# GitHub Copilot Survey Templates
 
-This repository contains resources to help evaluate GitHub Copilot pilots and inform Go/No-Go decisions for broader adoption.
+This repository contains survey resources to help evaluate GitHub Copilot adoption, identify barriers, and inform Go/No-Go decisions.
 
-## Quick Start
+## Choose Your Survey
 
-**Ready to launch your survey?** 
-- Use the ready-to-deploy survey in [SampleSurvey.md](SampleSurvey.md)
-- Recommended tool: [Microsoft Forms](https://forms.microsoft.com/)
+### 🎯 [Pilot Feedback Survey](SampleSurvey.md)
+**For:** Developers who have been using Copilot during a pilot  
+**Duration:** 5-10 minutes (10 questions)  
+**Purpose:** Evaluate pilot success and inform Go/No-Go decisions
 
-## What's Included
+**Use this when:**
+- Wrapping up a Copilot pilot program
+- Gathering feedback from active users
+- Making expansion/renewal decisions
+- Reporting ROI to leadership
 
-### [SampleSurvey.md](SampleSurvey.md)
-A complete, ready-to-use feedback survey covering:
+### 🚧 [Adoption Blockers Survey](AdoptionBlockersSurvey.md)
+**For:** Developers who haven't started using Copilot yet  
+**Duration:** ~90 seconds (5 questions)  
+**Purpose:** Identify barriers to adoption and remove friction
+
+**Use this when:**
+- Low adoption rates during pilot
+- Planning onboarding improvements
+- Understanding non-user concerns
+- Proactively addressing blockers
+
+**Recommended tool for both surveys:** [Microsoft Forms](https://forms.microsoft.com/)
+
+---
+
+## Survey Details
+
+### [Pilot Feedback Survey](SampleSurvey.md)
+A comprehensive feedback survey covering:
 - **Business Impact** - Velocity, time savings, and project acceleration
 - **Risk & Compliance** - Security, IP, and governance concerns
 - **Adoption & Satisfaction** - Integration ease and user satisfaction (1-10 scale)
 - **Strategic Alignment** - Digital transformation goals
 - **Recommendations** - Go/No-Go decision input and executive summary
+
+### [Adoption Blockers Survey](AdoptionBlockersSurvey.md)
+A quick check-in focusing on:
+- **Barriers** - Main reasons for not trying Copilot
+- **Concerns** - Security, privacy, quality, and compatibility issues
+- **Use Cases** - Where Copilot would (or wouldn't) help
+- **Enablers** - What would drive adoption today
+- **Likelihood** - Willingness to try with support
 
 ### Survey Design Guidelines
 
